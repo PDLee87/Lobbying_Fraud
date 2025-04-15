@@ -56,7 +56,7 @@ To install the required dependencies, run:
 1. Place your the training, validation, and testing Excel files in the specified directory.
 2. Update the input_dir and input_file variables in the script.
 3. Run the script:
-```python fraud_detection.py```
+```python fraud_risk.py```
 4. The output Excel file will be saved with corporate fraud scores.
 
 
