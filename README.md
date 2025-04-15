@@ -32,13 +32,6 @@ The final model predictions are saved in:
 - `validation_predictions.xlsx`
 - `test_predictions.xlsx`
 
-**Requirements**
-
-Install required Python packages using:
-
-```bash```
-pip install -r requirements.txt
-
 
 **Installation & Dependencies**
 This project requires Python and the following libraries:
