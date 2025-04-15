@@ -36,7 +36,7 @@ The final model predictions are saved in:
 
 Install required Python packages using:
 
-```bash
+```bash```
 pip install -r requirements.txt
 
 
